@@ -4,4 +4,4 @@ unicos = []
 for n in numeros:
     if n not in unicos:
         unicos.append(n)
-print("lista sin duplicados", unicos)
+print("Lista sin duplicados:", unicos)
